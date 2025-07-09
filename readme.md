@@ -50,7 +50,7 @@ A powerful, customizable WiFi Deauther built using the ESP8266 NodeMCU. This too
 
 ### 1. Flash Firmware
 
-```js
+```c++
 git clone https://github.com/yourusername/esp8266-wifi-deauther.git
 cd esp8266-wifi-deauther/firmware
 ```
